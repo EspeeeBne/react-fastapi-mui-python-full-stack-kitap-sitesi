@@ -1,0 +1,15 @@
+{
+    "users": [
+    ],
+    "books": [
+        {
+            "id": "ec8e6ecc-aac8-4dd4-b1c2-3f9a7d8c695e",
+            "title": "Nutuk",
+            "author": "Mustafa Kemal Ataturk",
+            "cover_url": "https://covers.openlibrary.org/b/id/12205042-L.jpg",
+            "completed_count": 1,
+            "reading_count": 0,
+            "to_read_count": 0
+        },
+    ]
+}
